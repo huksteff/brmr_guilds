@@ -1,0 +1,11 @@
+main: brmr.guilds.MainClass
+name: Guilds
+version: 1.0
+author: [VildaFaust, Huksteff, Tim]
+description: Todo
+commands:
+    guild:
+      description: Example command
+      usage: /guild
+      permission: guilds.guild
+      permission-message: You don't have the guilds.guild permission.
